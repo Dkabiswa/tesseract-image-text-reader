@@ -1,0 +1,24 @@
+{
+  "name": "tesseract-image-text-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dkabiswa/tesseract-image-text-reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dkabiswa/tesseract-image-text-reader/issues"
+  },
+  "homepage": "https://github.com/Dkabiswa/tesseract-image-text-reader#readme",
+  "dependencies": {
+    "node-tesseract": "^0.2.7"
+  }
+}
